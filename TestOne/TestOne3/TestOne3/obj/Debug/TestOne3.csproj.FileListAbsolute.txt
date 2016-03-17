@@ -1,0 +1,5 @@
+E:\项目\TestOne\TestOne3\TestOne3\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\TestOne\TestOne3\TestOne3\bin\TestOne3.dll
+E:\项目\TestOne\TestOne3\TestOne3\bin\TestOne3.pdb
+E:\项目\TestOne\TestOne3\TestOne3\obj\Debug\TestOne3.dll
+E:\项目\TestOne\TestOne3\TestOne3\obj\Debug\TestOne3.pdb
